@@ -1,6 +1,6 @@
 # Jupyter notebooks for Pandas Workout (https://PandasWorkout.com/)
 
-These are the Jupyter notebooks for my book, Pandas Workout. The data for the exercises are stored separately, at https://files.lerner.co.il/pandas-workout-data.zip .
+These are the Jupyter notebooks for my book, Pandas Workout.  The data for the exercises are stored separately, at https://files.lerner.co.il/pandas-workout-data.zip .
 
 Did you like the book? Please help me to spread the word, by reviewing it on Amazon (https://www.amazon.com/Pandas-Workout-Reuven-Lerner/dp/1617299723).
 
