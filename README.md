@@ -12,3 +12,8 @@ Other links that might be of interest to you:
 - My YouTube channel: https://YouTube.com/reuvenlerner
 - My Twitter feed: https://Twitter.com/reuvenmlerner
 - My online courses: https://LernerPython.com
+
+
+Python String formatting:
+
+https://mkaz.blog/working-with-python/string-formatting/
